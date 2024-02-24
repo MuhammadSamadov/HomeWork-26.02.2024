@@ -1,0 +1,11 @@
+C:\Users\Eng Sear\Desktop\C# Course\Week - 2\day5\HomeWork\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Eng Sear\Desktop\C# Course\Week - 2\day5\HomeWork\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Eng Sear\Desktop\C# Course\Week - 2\day5\HomeWork\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Eng Sear\Desktop\C# Course\Week - 2\day5\HomeWork\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng Sear\Desktop\C# Course\Week - 2\day5\HomeWork\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Eng Sear\Desktop\C# Course\Week - 2\day5\HomeWork\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Eng Sear\Desktop\C# Course\Week - 2\day5\HomeWork\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Eng Sear\Desktop\C# Course\Week - 2\day5\HomeWork\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Eng Sear\Desktop\C# Course\Week - 2\day5\HomeWork\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Eng Sear\Desktop\C# Course\Week - 2\day5\HomeWork\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Eng Sear\Desktop\C# Course\Week - 2\day5\HomeWork\Domain\obj\Debug\net8.0\ref\Domain.dll
